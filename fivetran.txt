@@ -1,0 +1,1779 @@
+
+
+360Learning
+
+Fivetran's 360Learning Lite connector is a use case focused, fully managed connector, that extracts data from 360Learning, replicates and loads that data in your centralized data warehouse or data lake, where analysts can easilly access and query it alongside the rest of your organization's data.
+
+Lite
+
+6sense
+
+Fivetran's 6sense Lite connector is a use case focused, fully managed connector, that extracts data from 6sense, replicates and loads that data in your centralized data warehouse or data lake, where analysts can easilly access and query it alongside the rest of your organization's data.
+
+Lite
+
+Active Campaign
+
+The Lite connector for Active Campaign extracts and loads the data your business needs into your destination of choice.
+
+Lite
+
+Ada Chat Bot
+
+The Lite connector for Ada Chat Bot extracts and loads the data your business needs into your destination of choice.
+
+Lite
+
+Adjust
+
+Adjust is a mobile measurement and fraud prevention platform.
+
+Adobe
+
+Adobe Analytics is a data engine that turns touchpoints into audiences you can target and personalize.
+
+Adobe Analytics (Omniture)
+
+Adobe Analytics is a data engine that turns touchpoints into audiences you can target and personalize.
+
+ADP Workforce Now
+
+ADP Workforce Now is an all-in-one HR and Payroll toll made for you to understand your people data on a deeper level.
+
+New
+
+AdRoll
+
+AdRoll is an advertising platform that helps companies grow revenue through seamless marketing and ads.
+
+
+Aircall
+
+The Lite connector for Aircall extracts and loads the data your business needs into your destination of choice.
+
+Lite
+
+Airtable
+
+Airtable works like a spreadsheet but gives you the power of a database to organize anything. Marketing Analytics,Sales Analytics,Product Analytics,Finance & Ops Analytics,Support Analytics,Engineering Analytics
+
+
+Alchemer
+
+The Lite connector for Alchemer extracts and loads the data your business needs into your destination of choice.
+
+Lite
+Soon
+
+Amazon Ads
+
+Amazon Ads is an online advertising platform that helps to target customers, track campaign results, and improve brand awareness. Connect your Amazon Ads data with Fivetran to capture valuable insights on consumers and scale your business!
+
+New
+
+Amazon Aurora MySQL
+
+Amazon Aurora is a MySQL and PostgreSQL compatible relational database built for the cloud, that combines the performance and availability of high-end commercial databases with the simplicity and cost-effectiveness of open source databases.1
+
+
+Amazon Aurora PostgreSQL
+
+Amazon Aurora is a MySQL and PostgreSQL compatible relational database built for the cloud, that combines the performance and availability of high-end commercial databases with the simplicity and cost-effectiveness of open source databases.
+
+
+Amazon Cloudfront
+
+Amazon CloudFront is a global content delivery network (CDN) service that securely delivers data, videos, applications, and APIs to your viewers with low latency and high transfer speeds.
+
+
+Amazon DynamoDB
+
+Amazon DynamoDB is a fast and flexible NoSQL database service for all applications that need consistent, single-digit millisecond latency at any scale. It is a fully managed cloud database and supports both document and key-value store models. Its flexible data model, reliable performance, and automatic scaling of throughput capacity, makes it a great fit for mobile, web, gaming, ad tech, IoT, and many other applications.
+
+
+Amazon S3
+
+Amazon S3 is a cloud object store with a simple web service interface. Offered by Amazon Web Services, it is built to store and retrieve any amount of data from anywhere – web sites and mobile apps, corporate applications, and data from IoT sensors or devices.
+
+Popular
+
+Amazon Selling Partner
+
+Seller Central and Vendor Central are the official Amazon services that allow businesses to manage their Amazon sales activity. Fivetran’s Amazon Selling Partner connector extracts raw data from the Seller Central and Vendor Central platforms and loads it into your destination.
+
+Soon
+
+Amplitude
+
+Amplitude is the comprehensive product analytics software for web and mobile.
+
+
+Anaplan
+
+Anaplan's connected planning platform enables organizations to accelerate decision making by connecting data, people, and plans across the business.
+
+
+Apache Kafka
+
+Apache Kafka is a distributed streaming platform.
+
+
+Apache Kafka on Heroku
+
+Heroku Kafka is a managed distributed streaming platform.
+
+
+Appfigures
+
+The Lite connector for Appfigures extracts and loads the data your business needs into your destination of choice.
+
+Lite
+Soon
+
+Apple App Store (formerly iTunes Connect)
+
+iTunes Connect is a suite of web-based tools created for developers to submit and manage their apps for sale in the App Store or the Mac App Store.
+
+
+Apple Search Ads
+
+Apple Search Ads Search Ads is an efficient and easy way to help people discover your app on the App Store.
+
+
+AppsFlyer
+
+AppsFlyer is a mobile app tracking & attribution analytics platform that helps app-developers, brands and ad-agencies track and optimize their users' acquisition funnel.
+
+
+Asana
+
+Asana is a web and mobile application designed to help teams improve communication, organization, and collaboration. Marketing Analytics,Sales Analytics,Product Analytics,Finance & Ops Analytics,Support Analytics,Engineering Analytics
+
+
+Assembled
+
+The Lite connector for Assembled extracts and loads the data your business needs into your destination of choice.
+
+Lite
+
+Atlassian Jira
+
+Jira is an issue tracking product, developed by Atlassian. It provides bug tracking, issue tracking, and project management functions. It helps development teams plan, track, and manage agile and software projects.
+
+Popular
+
+AWS Asset Inventory
+
+With Fivetran's AWS Inventory connector, you can fetch and view the details of the services of your AWS account.
+
+New
+
+AWS CloudTrail
+
+AWS CloudTrail is a service that enables governance, compliance, operational auditing, and risk auditing of your AWS account. With AWS CloudTrail, you can log, continuously monitor, and retain account activity related to actions across your AWS infrastructure.
+
+New
+
+AWS Config
+
+With Fivetran's AWS Config connector, you can fetch and view the details of the services of your AWS account.
+
+New
+
+AWS Kinesis
+
+Amazon Kinesis Firehose is a real-time data stream service which transforms and loads data into other AWS services. Make all of your AWS Kinesis Firehose data available in a data warehouse to get insights from your streaming data.
+
+
+AWS Lambda
+
+AWS Lambda is a serverless computing platform that runs code in response to events and automatically manages the compute resources required by that code.
+
+
+Azure Cloud Functions
+
+Azure Functions is a serverless compute service that enables you to run code on-demand without having to explicitly provision or manage infrastructure.
+
+
+BambooHR
+
+BambooHR is an HR software designed for small and medium businesses focusing on hiring, onboarding, payroll and performance.
+
+New
+
+BigCommerce
+
+BigCommerce is an all-in-one tool used to merchandize products, optimize search and convert shoppers into customers via their secure payment platform.
+
+New
+
+Blackboard
+
+Blackboard software allows teachers to surface student success metrics, create workflows for instructors to interact with their students, and open instructor-student support channels. Our Blackboard integration connects to the underlying database to integrate your learning management system data with your destination of choice for analytics.
+
+
+Box
+
+Fivetran's Box connector moves data from the cloud based file storage service.
+
+
+Braintree Payments
+
+The Braintree platform by Paypal provides mobile and web payment systems for e-commerce companies. Make all of your Braintree payments and e-commerce data available in a data warehouse to augment your internal analysis.
+
+
+Branch
+
+Branch is a mobile measurement and deep linking platform that unifies user measurement across different devices, platforms, and channels.
+
+New
+
+Braze
+
+Braze is an engagement platform that empowers growth by helping marketing teams to build customer loyalty through mobile, omni channel customer experiences.
+
+
+Buildkite
+
+The Lite connector for Buildkite extracts and loads the data your business needs into your destination of choice.
+
+Lite
+
+Calendly
+
+The Lite connector for Calendly extracts and loads the data your business needs into your destination of choice.
+
+Lite
+
+Campaign Manager
+
+DoubleClick Campaign Manager simplifies advertising campaign management, from media planning to reporting. With all your digital marketing efforts on one powerful platform, you can work smarter, act quicker, and get better results.
+
+
+Campaign Monitor
+
+The Lite connector for Campaign Monitor extracts and loads the data your business needs into your destination of choice.
+
+Lite
+Soon
+
+Canvas
+
+Fivetran's Canvas integration pulls your LMS information directly from the underlying database to centralize your information easily for analytics.
+
+
+Chameleon
+
+The Lite connector for Chameleon extracts and loads the data your business needs into your destination of choice.
+
+Lite
+Soon
+
+Channel Advisor
+
+The Lite connector for Channel Advisor extracts and loads the data your business needs into your destination of choice.
+
+Lite
+Soon
+
+Chargebee Product Catalog 1
+
+The Lite connector for Chargebee Product Catalog 1 extracts and loads the data your business needs into your destination of choice.
+
+Lite
+
+Chargebee Product Catalog 2
+
+The Lite connector for Chargebee Product Catalog 2 extracts and loads the data your business needs into your destination of choice.
+
+Lite
+
+Chargedesk
+
+The Lite connector for Chargedesk extracts and loads the data your business needs into your destination of choice.
+
+Lite
+Soon
+
+ChartMogul
+
+The Lite connector for ChartMogul extracts and loads the data your business needs into your destination of choice.
+
+Lite
+
+Chorus
+
+The Lite connector for Chorus extracts and loads the data your business needs into your destination of choice.
+
+Lite
+
+CIMIS
+
+The Lite connector for CIMIS extracts and loads the data your business needs into your destination of choice.
+
+Lite
+Soon
+
+Cin7
+
+The Lite connector for Cin7 extracts and loads the data your business needs into your destination of choice.
+
+Lite
+Soon
+
+Circle CI
+
+The Lite connector for Circle CI extracts and loads the data your business needs into your destination of choice.
+
+Lite
+Soon
+
+ClickUp
+
+Fivetran's ClickUp Lite connector is a use case focused, fully managed connector, that extracts data from ClickUp, replicates and loads that data in your centralized data warehouse or data lake, where analysts can easilly access and query it alongside the rest of your organization's data.
+
+Lite
+Soon
+
+Close CRM
+
+Fivetran's Close CRM Lite connector is a use case focused, fully managed connector, that extracts data from Close CRM, replicates and loads that data in your centralized data warehouse or data lake, where analysts can easilly access and query it alongside the rest of your organization's data.
+
+Lite
+Soon
+
+Collibra
+
+The Lite connector for Collibra extracts and loads the data your business needs into your destination of choice.
+
+Lite
+Soon
+
+Confluence
+
+Fivetran's Confluence Lite connector is a use case focused, fully managed connector, that extracts data from Confluence, replicates and loads that data in your centralized data warehouse or data lake, where analysts can easilly access and query it alongside the rest of your organization's data.
+
+Lite
+Soon
+
+Contrast Security
+
+Fivetran's Contrast Security Lite connector is a use case focused, fully managed connector, that extracts data from Contrast Security, replicates and loads that data in your centralized data warehouse or data lake, where analysts can easilly access and query it alongside the rest of your organization's data.
+
+Lite
+Soon
+
+Coupa
+
+Coupa is a cloud platform for business spend management.
+
+New
+
+Criteo
+
+Criteo helps internet retailers serve personalized advertisements through retargeting.
+
+
+Crossbeam
+
+The Lite connector for Crossbeam extracts and loads the data your business needs into your destination of choice.
+
+Lite
+
+Delighted
+
+Fivetran's Delighted connector syncs customer sentiment data from the Delighted platform into your destination in minutes.
+
+
+Dixa
+
+The Lite connector for Dixa extracts and loads the data your business needs into your destination of choice.
+
+Lite
+Soon
+
+Docebo
+
+The Lite connector for Docebo extracts and loads the data your business needs into your destination of choice.
+
+Lite
+Soon
+
+DocumentDB
+
+Amazon DocumentDB is a highly available, fast & scalable document database service that is fully managed. It makes storing, querying and indexing JSON data very easy.
+
+New
+
+Drift
+
+The Lite connector for Drift extracts and loads the data your business needs into your destination of choice.
+
+Lite
+
+Drip
+
+Fivetran's Drip Lite connector is a use case focused, fully managed connector, that extracts data from Drip, replicates and loads that data in your centralized data warehouse or data lake, where analysts can easilly access and query it alongside the rest of your organization's data.
+
+Lite
+Soon
+
+Dropbox
+
+Dropbox is a file hosting service that offers cloud storage, file synchronization, personal cloud, and client software. It is a modern workspace designed to reduce busywork—so you can focus on the things that matter. Marketing Analytics,Sales Analytics,Product Analytics,Finance & Ops Analytics,Support Analytics,Engineering Analytics
+
+
+Duoplane
+
+The Lite connector for Duoplane extracts and loads the data your business needs into your destination of choice.
+
+Lite
+Soon
+
+E-conomic
+
+The Lite connector for E-conomic extracts and loads the data your business needs into your destination of choice.
+
+Lite
+Soon
+
+EasyPost
+
+Fivetran's EasyPost Lite connector is a use case focused, fully managed connector, that extracts data from EasyPost, replicates and loads that data in your centralized data warehouse or data lake, where analysts can easilly access and query it alongside the rest of your organization's data.
+
+Lite
+Soon
+
+Ellucian Banner
+
+Ellucian Banner helps manage student information, employee resources, financial processes, and other educational resources for complete oversight. Our Ellucian Banner integration connects to the underlying database to integrate your learning management system data with your destination of choice for analytics.
+
+
+Email Ingestor
+
+Upload CSV and JSON files to your data warehouse by sending a simple email. The Fivetran Email CSV Ingester extracts one or more attachments, parses the attached data and then loads it into your warehouse. Automatically schedule email reports or send one time uploads. Marketing Analytics,Sales Analytics,Product Analytics,Finance & Ops Analytics,Support Analytics,Engineering Analytics
+
+
+Employment Hero
+
+The Lite connector for Employment Hero extracts and loads the data your business needs into your destination of choice.
+
+Lite
+Soon
+
+Epicor Prophet 21
+
+Epicor Prophet 21 integration connects directly to the underlying database and uses native mechanisms associated with reliable SQL Server database replication to capture all changes with minimal impact to production database.
+
+
+Eventbrite
+
+Fivetran's Eventbrite Lite connector is a use case focused, fully managed connector, that extracts data from Eventbrite, replicates and loads that data in your centralized data warehouse or data lake, where analysts can easilly access and query it alongside the rest of your organization's data.
+
+Lite
+Soon
+
+Everhour
+
+Fivetran's Everhour Lite connector is a use case focused, fully managed connector, that extracts data from Everhour, replicates and loads that data in your centralized data warehouse or data lake, where analysts can easilly access and query it alongside the rest of your organization's data.
+
+Lite
+Soon
+
+Facebook Ads
+
+Facebook Ads provides a history of the settings of your Ad Account, Campaigns, Ad Sets, Ads, and Ad Creatives.
+
+Popular
+
+Facebook Pages
+
+Facebook Pages help businesses connect with customers, grow audiences and showcase their products on Facebook's social platform.
+
+
+FinancialForce
+
+FinancialForce is a Salesforce-native cloud ERP application. Fivetran syncs FinancialForce data via our Salesforce integration.
+
+
+Fountain
+
+Fivetran's Fountain Lite connector is a use case focused, fully managed connector, that extracts data from Fountain, replicates and loads that data in your centralized data warehouse or data lake, where analysts can easilly access and query it alongside the rest of your organization's data.
+
+Lite
+Soon
+
+FreightView
+
+The Lite connector for FreightView extracts and loads the data your business needs into your destination of choice.
+
+Lite
+
+FreshChat
+
+Fivetran's FreshChat Lite connector is a use case focused, fully managed connector, that extracts data from FreshChat, replicates and loads that data in your centralized data warehouse or data lake, where analysts can easilly access and query it alongside the rest of your organization's data.
+
+Lite
+Soon
+
+Freshdesk
+
+Freshdesk is a SaaS customer support software and help desk ticketing system. The solution also includes features like Knowledge Base, Community Platform, Live Chat, Phone Support, etc.
+
+
+Freshdesk Contact Center
+
+The Lite connector for Freshdesk Contact Center extracts and loads the data your business needs into your destination of choice.
+
+Lite
+Soon
+
+Freshservice
+
+Freshservice is a cloud based ITSM software for your service desk with powerful automation tools to manage incidents, assets and more.
+
+New
+
+FreshSuccess
+
+The Lite connector for FreshSuccess extracts and loads the data your business needs into your destination of choice.
+
+Lite
+Soon
+
+Freshteam
+
+Fivetran's Freshteam Lite connector is a use case focused, fully managed connector, that extracts data from Freshteam, replicates and loads that data in your centralized data warehouse or data lake, where analysts can easilly access and query it alongside the rest of your organization's data.
+
+Lite
+Soon
+
+Friendbuy
+
+Fivetran's Friendbuy Lite connector is a use case focused, fully managed connector, that extracts data from Friendbuy, replicates and loads that data in your centralized data warehouse or data lake, where analysts can easilly access and query it alongside the rest of your organization's data.
+
+Lite
+Soon
+
+Front
+
+Front is a shared inbox for teams that brings business communications into a single collaborative platform. Centralize your Front data so that you can ultimately combine it with our datasets to help you optimize your customer support and sales process.
+
+
+FTP
+
+File Transfer Protocol (FTP) is the standard network protocol used for the transfer of computer files between a client and server on a computer network.
+
+
+FTPS
+
+FTPS is an extension to the commonly used File Transfer Protocol (FTP) that adds support for the Transport Layer Security (TLS) and the Secure Sockets Layer (SSL) cryptographic protocols.
+
+
+Gainsight
+
+Gainsight is a powerful customer success and product experience platform that enables businesses to strategically drive revenue, prevent churn and promote advocacy.
+
+
+Github
+
+Github is a web-based Git repository hosting service, that enables distribution revision control and source code management. Access your Github data using Fivetran to track your best developers and understand who your most efficient teams are. Replicate all your data about developer commits, comments, and issues into your data warehouse.
+
+
+Gladly
+
+Fivetran's Gladly Lite connector is a use case focused, fully managed connector, that extracts data from Gladly, replicates and loads that data in your centralized data warehouse or data lake, where analysts can easilly access and query it alongside the rest of your organization's data.
+
+Lite
+Soon
+
+GoCardless
+
+The Lite connector for GoCardless extracts and loads the data your business needs into your destination of choice.
+
+Lite
+
+Gong.io
+
+The Lite connector for Gong.io extracts and loads the data your business needs into your destination of choice.
+
+Lite
+
+Google Ad Manager
+
+Google Ad Manager, formerly known as DoubleClick for Publishers, is a complete revenue software service across screens, formats and sales channels. It can be used as an ad server but it also provides a variety of features for managing the sales process of online ads using a publisher's dedicated sales team.
+
+
+Google Ads
+
+Google AdWords is an online advertising service developed by Google, where advertisers pay to display brief advertising copy, product listings, and video content within the Google ad network to web users.
+
+Popular
+
+Google Analytics
+
+Google Analytics lets you analyze data about customer engagement with your website or application.
+
+Popular
+
+Google Analytics 360
+
+Google Analytics 360 is Google's premium analytics offering that generates detailed statistics about a website's traffic and traffic sources and measures conversions and sales. It's the most widely used website statistics service.
+
+
+Google Analytics 4
+
+Google Analytics 4 (GA4) is a website monitoring tool that enables your marketing team to measure traffic and engagement. Google Analytics 4 (GA4) integrates with Google’s advertising platforms and uses machine learning to uncover customer insights. Connect your Google Analytics 4 (GA4) data with Fivetran to drive marketing ROI!
+
+New
+
+Google Analytics 4 Export
+
+Google Analytics 4 (GA4) is a website monitoring tool that enables your marketing team to measure traffic and engagement. GA4 integrates with Google’s advertising platforms and uses machine learning to uncover customer insights. Connect your GA4 data with Fivetran to extract event level raw data and drive marketing ROI!
+
+New
+
+Google Calendar
+
+Fivetran's Google Calendar Lite connector is a use case focused, fully managed connector, that extracts data from Google Calendar, replicates and loads that data in your centralized data warehouse or data lake, where analysts can easilly access and query it alongside the rest of your organization's data.
+
+Lite
+
+Google Cloud Function
+
+Google Cloud Functions is a serverless computing platform that runs code in response to events and automatically manages the compute resources required by that code.
+
+
+Google Cloud Storage
+
+Google Cloud Storage is a cloud object store with a simple web service interface. Make all of your Google Cloud Storage files available in a data warehouse to augment your internal analysis.
+
+
+Google Display & Video 360
+
+Google Display & Video 360 is an integrated solution for end-to-end advertising campaigns.
+
+New
+
+Google Drive
+
+Google Drive is a file storage and synchronization service. Fivetran supports syncing files from your Google Drive to your destination. You can sync multiple files either as unique tables or as a single table in your destination.
+
+
+Google Play
+
+Google Play is an mobile app store for the Android operating system.
+
+
+Google Search Ads 360
+
+Google Search Ads 360 helps you monitor and maintain your ad campaigns across multiple search engines.
+
+Soon
+
+Google Search Console
+
+Google Search Console is a free web service that allows webmasters to check indexing status and optimize visibility of their websites. Users can track their site's search performance to help maintain their presence in Google Search results.
+
+Popular
+
+Google Sheets
+
+Google Sheets is a web-based spreadsheet offered by Google as part of their Drive office services. It makes it easy to create, edit and collaborate with others from any device. Marketing Analytics,Sales Analytics,Product Analytics,Finance & Ops Analytics,Support Analytics,Engineering Analytics
+
+Popular
+
+Google Tasks
+
+The Lite connector for Google Tasks extracts and loads the data your business needs into your destination of choice.
+
+Lite
+Soon
+
+Greenhouse
+
+Greenhouse is an applicant tracking system and recruiting software designed to optimize your entire recruiting process.
+
+
+Grepsr
+
+Fivetran's Grepsr Lite connector is a use case focused, fully managed connector, that extracts data from Grepsr, replicates and loads that data in your centralized data warehouse or data lake, where analysts can easilly access and query it alongside the rest of your organization's data.
+
+Lite
+Soon
+
+Guru
+
+The Lite connector for Guru extracts and loads the data your business needs into your destination of choice.
+
+Lite
+Soon
+
+Harvest
+
+The Lite connector for Harvest extracts and loads the data your business needs into your destination of choice.
+
+Lite
+Soon
+
+Heap
+
+Heap automatically captures every web, mobile, and cloud interaction: clicks, submits, transactions, emails, and more. Retroactively analyze your data without writing code.
+
+New
+
+Height
+
+Height is a collaborative work service that helps to maintain a project workflow.
+
+New
+
+Help Scout
+
+Help Scout makes excellent customer service achievable for companies of all sizes.
+
+
+Heroku Postgres
+
+Heroku Postgres is a SQL database as a service with operational expertise built in, easy setup, security by default, database forking, credentials, and more.
+
+
+Hibob
+
+The Lite connector for Hibob extracts and loads the data your business needs into your destination of choice.
+
+Lite
+Soon
+
+High-Volume Agent Db2 for i
+
+Db2 for i is a Relational Database Management System integrated with IBM i. Fivetran's integration platform replicates data from your Db2 for i source database and loads it into your destination.
+
+New
+
+High-Volume Agent Oracle
+
+Oracle is an enterprise-scale and priced relational database.
+
+
+High-Volume Agent SQL Server
+
+Microsoft's SQL Server is a powerful enterprise relational database.
+
+
+Hubspot
+
+HubSpot is an inbound marketing and sales platform that helps companies attract visitors, convert leads, and close customers. Its products and services aim to provide tools for social media marketing, content management, web analytics, CRM and search engine optimization
+
+Popular
+
+Impact
+
+The Lite connector for Impact extracts and loads the data your business needs into your destination of choice.
+
+Lite
+Soon
+
+Incident.io
+
+Fivetran's Incident.io Lite connector is a use case focused, fully managed connector, that extracts data from Incident.io, replicates and loads that data in your centralized data warehouse or data lake, where analysts can easilly access and query it alongside the rest of your organization's data.
+
+Lite
+Soon
+
+Instagram Business
+
+Instagram Business enables creators and companies to connect with a variety of audiences at scale, and track their social media engagement metrics.
+
+
+Intercom
+
+Intercom provides customer messaging apps for sales, marketing, and support. Make all of your Intercom customer messaging data available in a data warehouse to augment your business intelligence.
+
+
+IronClad
+
+The Lite connector for IronClad extracts and loads the data your business needs into your destination of choice.
+
+Lite
+
+Ironsource
+
+Fivetran's Ironsource Lite connector is a use case focused, fully managed connector, that extracts data from Ironsource, replicates and loads that data in your centralized data warehouse or data lake, where analysts can easilly access and query it alongside the rest of your organization's data.
+
+Lite
+Soon
+
+Iterable
+
+Iterable is an integrated, cross-channel platform—built for marketers, trusted by engineers, designed with intelligence.
+
+
+Khoros
+
+Fivetran's Khoros Lite connector is a use case focused, fully managed connector, that extracts data from Khoros, replicates and loads that data in your centralized data warehouse or data lake, where analysts can easilly access and query it alongside the rest of your organization's data.
+
+Lite
+Soon
+
+Kissmetrics
+
+Fivetran's Kissmetrics Lite connector is a use case focused, fully managed connector, that extracts data from Kissmetrics, replicates and loads that data in your centralized data warehouse or data lake, where analysts can easilly access and query it alongside the rest of your organization's data.
+
+Lite
+Soon
+
+Klaviyo
+
+Klaviyo is an email marketing platform. Powered by data, built for ecommerce and web businesses.
+
+
+Kustomer
+
+Accelerate customer conversations and eliminate tedious questions by providing a holistic view of the customer. Unify customer purchase and activity history from all your systems on the Kustomer timeline, so agents have data-driven, actionable conversations without changing screens.
+
+
+Lattice
+
+The Lite connector for Lattice extracts and loads the data your business needs into your destination of choice.
+
+Lite
+
+Lessonly
+
+The Lite connector for Lessonly extracts and loads the data your business needs into your destination of choice.
+
+Lite
+Soon
+
+Lever
+
+Lever streamlines the hiring process and simplifies the Applicant Tracking System, so that recruiters and hiring managers can focus on their candidates.
+
+
+Lightspeed
+
+Lightspeed Retail is a cloud-based point of sale (POS) solution that is suitable for retailers.
+
+
+LinkedIn Ads
+
+LinkedIn is a social media network focused on professional relationship, business listings, and employment opportunities. The site offers marketers and recruiters the ability to advertise on the platform through paid social posts, in-mail and more.
+
+Popular
+
+Linkedin Company Pages
+
+Linkedin Company Pages powers businesses to grow their audiences through page engagement metrics like comments, likes, shares, and more. View interest in your job postings as well!
+
+
+Livechat
+
+The Lite connector for Livechat extracts and loads the data your business needs into your destination of choice.
+
+Lite
+Soon
+
+Loaded Commerce via MySQL
+
+Loaded Commerce is the most powerful ecommerce platform you can host yourself. Create Great Looking Mobile Responsive E-commerce Sites.
+
+
+Lob
+
+The Lite connector for Lob extracts and loads the data your business needs into your destination of choice.
+
+Lite
+
+Loop
+
+Fivetran's Loop Lite connector is a use case focused, fully managed connector, that extracts data from Loop, replicates and loads that data in your centralized data warehouse or data lake, where analysts can easilly access and query it alongside the rest of your organization's data.
+
+Lite
+Soon
+
+Magento via MySQL
+
+Magento is an ecommerce platform which provides online merchants with a flexible shopping cart system, and customization of their online store. It offers marketing, search engine optimization, and catalog-management tools.
+
+
+Magento via MySQL Amazon RDS
+
+Magento empowers thousands of retailers and brands with the best eCommerce platforms and flexible cloud solutions to rapidly innovate and grow.
+
+
+Mailchimp
+
+MailChimp provides marketing automation and email marketing services for e-commerce businesses.
+
+
+Mailgun
+
+Fivetran's Mailgun Lite connector is a use case focused, fully managed connector, that extracts data from Mailgun, replicates and loads that data in your centralized data warehouse or data lake, where analysts can easilly access and query it alongside the rest of your organization's data.
+
+Lite
+
+Mandrill
+
+Mandrill is a transactional email platform from MailChimp. It provides a scalable, quick, and secure delivery API for transactional emails from websites and applications.
+
+
+MariaDB
+
+MariaDB is an Open Source database with more than 12 million users worldwide. MariaDB is secure at the enterprise-level, highly reliable and trusted by the world’s leading brands. Its extensible, modern architecture at every layer in the database allows for flexible configuration that supports both traditional and emerging enterprise use cases.
+
+
+MariaDB on Amazon RDS
+
+MariaDB is a popular open source relational database created by the original developers of MySQL. Amazon RDS makes it easy to set up, operate, and scale MariaDB server deployments in the cloud. With Amazon RDS, you can deploy scalable MariaDB cloud databases in minutes with cost-efficient and resizable hardware capacity.
+
+
+MariaDB on Azure Database
+
+MariaDB is a popular open source relational database created by the original developers of MySQL. Microsoft Azure makes it easy to set up, operate, and scale MariaDB server deployments in the cloud.
+
+
+Marin Software
+
+Marin Software is an online advertising platform that helps marketers pptimize search, social & display ads across channels and devices.
+
+
+Marketo
+
+Marketo provides marketing automation software that helps marketers master the art & science of digital marketing to engage customers and prospects. Centralize your Marketo data into a warehouse for advanced marketing analytics, multi-touch attribution, and more.
+
+
+Mavenlink
+
+Mavenlink project management software helps service organization unite around its people and profitability. The tool brings together time tracking, resource planning, and expense management into one place.
+
+
+Medallia
+
+Medallia is a customer feedback management software platform that enables organizations to collect customer feedback and improve the customer experience.
+
+New
+
+Mention
+
+The Lite connector for Mention extracts and loads the data your business needs into your destination of choice.
+
+Lite
+Soon
+
+Microsoft Advertising
+
+Microsoft Advertising is a service that provides pay per click advertising on both the Bing and Yahoo! search engines.
+
+Popular
+
+Microsoft Azure Blob Storage
+
+Azure Blog Storage is a cloud service for storing large amounts of unstructured object data. Make all of your Azure Blog Storage object data available in a data warehouse to augment your internal analysis.
+
+
+Microsoft Azure SQL Database
+
+Azure SQL Database is the intelligent, fully-managed relational cloud database service built for developers. Accelerate app development and make maintenance easy and productive using the SQL tools you love to use. Take advantage of built-in intelligence that learns app patterns and adapts to maximize performance, reliability, and data protection.
+
+
+Microsoft Dynamics 365
+
+Connect people, products, and data with Microsoft Dynamics 365, a collection of intelligent business applications that help transform the way you do business. Marketing Analytics,Sales Analytics,Finance & Ops Analytics,Support Analytics
+
+
+Microsoft Dynamics 365 Business Central
+
+Microsoft Dynamics 365 Business central brings together operational data for small and medium sized businesses. Connect Microsoft Dynamics 365 Business central with Fivetran to empower your teams.
+
+Soon
+
+Microsoft Dynamics AX
+
+Microsoft Dynamics AX is built on the SQL Server database. Instead of pulling data from its API, we pull directly from the source database, saving time and effort.
+
+
+Microsoft Dynamics CRM
+
+Microsoft Dynamics CRM (Customer Engagement) is built on the SQL Server database. Instead of pulling data from its API, we pull directly from the source database, saving time and effort.
+
+
+Microsoft Dynamics GP
+
+Microsoft Dynamics GP is a business management solution for financial management, with integrated accounting and payroll functionalities, and inventory and operations management capabilities.
+
+
+Microsoft Dynamics NAV
+
+Microsoft Dynamics NAV is an enterprise resource planning (ERP) software suite for midsize organizations to help them streamline business by automating and optimizing operational core functions.
+
+
+Mixpanel
+
+Mixpanel provides an advanced analytics platform for tracking user actions on web and mobile. Combine Mixpanel data with other data that you have collected for game-changing insights.
+
+
+Monday.com
+
+The Lite connector for Monday.com extracts and loads the data your business needs into your destination of choice.
+
+Lite
+
+MongoDB
+
+MongoDB is a free and open-source cross-platform document-oriented database program. Classified as a NoSQL database program, MongoDB uses JSON-like documents with schemas.
+
+
+MongoDB Sharded
+
+MongoDB Sharded Cluster is a method for distributing data across multiple machines.
+
+
+MUX
+
+The Lite connector for MUX extracts and loads the data your business needs into your destination of choice.
+
+Lite
+Soon
+
+MySQL Database
+
+MySQL is an open source database and a cost-effective choice now developed by Oracle.
+
+
+MySQL on Azure Database
+
+Azure Database for MySQL provides a fully managed database service for app development and deployment.
+
+
+MySQL on Google Cloud SQL
+
+Cloud SQL for MySQL is a fully-managed database service that makes it easy to set up, maintain, manage, and administer your MySQL relational databases on Google Cloud Platform.
+
+
+MySQL on RDS
+
+MySQl is a popular open source relational database that can be hosted on AWS RDS, combining the performance and availability of high-end commercial databases with the simplicity and cost-effectiveness of open source databases.
+
+
+Namely
+
+The Lite connector for Namely extracts and loads the data your business needs into your destination of choice.
+
+Lite
+Soon
+
+nCino
+
+nCino is a financial operations solution built on the Salesforce platform. Fivetran syncs nCino data via our Salesforce integration.
+
+
+NetSuite SuiteAnalytics
+
+NetSuite is a cloud ERP system owned by Oracle. Its business management suite for ERP, Financials, CRM and e-commerce.
+
+Popular
+
+Notion
+
+Fivetran's Notion Lite connector is a use case focused, fully managed connector, that extracts data from Notion, replicates and loads that data in your centralized data warehouse or data lake, where analysts can easilly access and query it alongside the rest of your organization's data.
+
+Lite
+Soon
+
+Okta
+
+The Lite connector for Okta extracts and loads the data your business needs into your destination of choice.
+
+Lite
+
+Open Exchange Rates
+
+The Lite connector for Open Exchange Rates extracts and loads the data your business needs into your destination of choice.
+
+Lite
+
+Opendata.dc
+
+The Lite connector for Opendata.dc extracts and loads the data your business needs into your destination of choice.
+
+Lite
+
+Optimizely
+
+Optimizely provides A/B testing tools, in which two versions of a web page can be compared for performance, and multivariate testing.
+
+
+Oracle
+
+Oracle is an enterprise-scale and priced relational database.
+
+
+Oracle EBS
+
+Oracle E-Business Suite (EBS) is a set of business applications for managing and automating processes across your organization. Oracle EBS is built on the Oracle database.
+
+New
+
+Oracle Eloqua
+
+Eloqua is a marketing automation platform owned by Oracle that helps you build personalized campaigns across multiple channels including email, display search, web, video and mobile. Oracle Eloqua equips marketers with best-in-class lead and campaign management tools that help marketers engage the right audience at the right time in the buyer’s journey while providing real-time reporting and insights.
+
+
+Oracle Fusion Cloud Applications — CX
+
+Make every customer interaction matter by connecting all your business data across advertising, marketing, sales, commerce, and service. Oracle Advertising and Customer Experience (CX) offers a connected suite of applications that goes beyond traditional CRM to help you create, manage, serve, and nurture lasting customer relationships.
+
+New
+
+Oracle Fusion Cloud Applications — ERP
+
+Oracle Fusion Cloud ERP is a complete, modern, cloud ERP suite that provides your teams with advanced capabilities, such as AI to automate the manual processes that slow them down.
+
+New
+
+Oracle Fusion Cloud Applications — HCM
+
+Oracle Fusion Cloud Human Capital Management is a complete solution connecting every human resource process from hire to retire. This provides a consistent experience across devices, enables one source of truth for HR data to improve decision-making, and empowers you with market-leading innovation to address your needs today and into the future.
+
+New
+
+Oracle Fusion Cloud Applications — SCM
+
+With Oracle Supply Chain Management (SCM) & Manufacturing, organizations can respond quickly to changing demand, supply, and market conditions. Seamlessly connect your supply chain to create a resilient network and process built to outpace change.
+
+New
+
+Oracle on Amazon RDS
+
+Oracle Database is a relational database management system developed by Oracle. Amazon RDS makes it easy to set up, operate, and scale Oracle Database deployments in the cloud. With Amazon RDS, you can deploy multiple editions of Oracle Database in minutes with cost-efficient and re-sizable hardware capacity. Amazon RDS frees you up to focus on application development by managing time-consuming database administration tasks including provisioning, backups, software patching, monitoring, and hardware scaling.
+
+
+Oracle PeopleSoft
+
+Oracle PeopleSoft helps with human capital management, finance, orders, and other inventory management capabilities. Our Oracle PeopleSoft integration pulls all of the information directly from the underlying database to power your HR and ERP analytics.
+
+
+Oracle RAC
+
+Oracle Real Application Clusters (RAC) allow customers to run a single Oracle Database across multiple servers in order to maximize availability and enable horizontal scalability, while accessing shared storage.
+
+
+Oracle Siebel CRM
+
+Oracle Siebel CRM help track customer experiences throughout their lifecycle from buying to owning to improve customer retention and churn rates alongside increased customer acquisition. Our Oracle Siebel CRM integration connects to the underlying Oracle database to integrate your Siebel CRM data with the rest of your centralized sources for a holistic overview.
+
+
+Orbit
+
+The Lite connector for Orbit extracts and loads the data your business needs into your destination of choice.
+
+Lite
+Soon
+
+OsCommerce via MySQL
+
+OsCommerce is an e-commerce and online store-management software program. It can be used on any web server that has PHP and MySQL installed.
+
+
+Outbrain
+
+Outbrain is a recommendations engine that serves paid media in native placements on premium publishing websites.
+
+
+Outreach
+
+Outreach is a sales engagement and automation platform.
+
+
+Paypal
+
+Paypal is one of the worlds leading payment platforms that allows users to receive and send payments securely.
+
+
+Pendo
+
+Pendo is a product experience platform that helps software product teams deliver software users love.
+
+
+Pingdom
+
+The Lite connector for Pingdom extracts and loads the data your business needs into your destination of choice.
+
+Lite
+Soon
+
+Pinterest Ads
+
+Pinterest is a social networking and information discovery website. Users share and collect images, recipes, home ideas, and style inspiration through Pins, which businesses can also promote through targeted advertising.
+
+
+Pipe17
+
+The Lite connector for Pipe17 extracts and loads the data your business needs into your destination of choice.
+
+Lite
+Soon
+
+Pipedrive
+
+Pipedrive is a sales CRM and pipeline management platform.
+
+
+PostgreSQL Database
+
+PostgreSQL is one of the world's most popular open source relational databases.
+
+
+PostgreSQL on Azure Database
+
+Azure Database for PostgreSQL provides fully managed, enterprise-ready community PostgreSQL database as a service.
+
+
+PostgreSQL on Google Cloud
+
+Cloud SQL for PostgreSQL is a fully-managed database service that helps you set up, maintain, manage, and administer your PostgreSQL relational databases on Google Cloud Platform.
+
+
+PostgreSQL on RDS
+
+PostgreSQL has become the preferred open source relational database for many enterprise developers and start-ups, powering leading business and mobile applications. Amazon RDS makes it easy to set up, operate, and scale PostgreSQL deployments in the cloud.
+
+
+PostHog
+
+The Lite connector for PostHog extracts and loads the data your business needs into your destination of choice.
+
+Lite
+Soon
+
+PowerSchool
+
+PowerSchool software helps educators and front office administrators manage instruction, learning, grading, attendance, assessment, analytics, state reporting, special education, student registration, talent, finance, and HR. Our PowerSchool Integration connects to the underlying database to integrate your learning management system data with your destination of choice for analytics.
+
+
+PrestaShop
+
+PrestaShop is a freemium, open source e-commerce platform.
+
+
+PrestaShop via MySQL
+
+PrestaShop is a free, fully-scalable open-source ecommerce platform committed to providing the best shopping cart experience for both merchants and customers.
+
+
+Productboard
+
+The Lite connector for Productboard extracts and loads the data your business needs into your destination of choice.
+
+Lite
+Soon
+
+Qualtrics (previously SAP Qualtrics)
+
+Qualtrics is web based software that allows the user to create surveys and generate reports.
+
+
+Quickbooks
+
+QuickBooks is a popular accounting software package for small and medium sized businesses. With QuickBooks Online, do invoicing, billing, run reports, or even pay employees from any mobile or desktop browser.
+
+
+Ramp
+
+The Lite connector for Ramp extracts and loads the data your business needs into your destination of choice.
+
+Lite
+Soon
+
+Rarible
+
+The Lite connector for Rarible extracts and loads the data your business needs into your destination of choice.
+
+Lite
+
+ReCharge
+
+Recharge is a recurring billing and subscriptions service for ecommerce stores that use Shopify.
+
+
+Recurly
+
+Recurly provides enterprise-class subscription billing management for thousands of businesses worldwide. Dive deeper into your Recurly payment data to better understand your business financials.
+
+
+Reddit Ads
+
+Reddit Ads allows brands to connect and engage with their audiences through targeted and promoted posts. Connect your Reddit Ads data with Fivetran to capture valuable insights on your target audience and grow your business!
+
+New
+
+Reply.io
+
+The Lite connector for Reply.io extracts and loads the data your business needs into your destination of choice.
+
+Lite
+Soon
+
+RingCentral
+
+RingCentral is a modern, cloud-based communications platform that helps companies connect with their customers on phone calls, video calls and SMS. Fivetran’s RingCentral connector extracts raw data from RingCentral and loads it into your destination.
+
+New
+
+Rollbar
+
+Fivetran's Rollbar Lite connector is a use case focused, fully managed connector, that extracts data from Rollbar, replicates and loads that data in your centralized data warehouse or data lake, where analysts can easilly access and query it alongside the rest of your organization's data.
+
+Lite
+Soon
+
+Sage Intacct
+
+Sage Intacct is provider of cloud-based financial management and services
+
+New
+
+Sailthru
+
+Sailthru helps modern marketers at leading retail and media companies build deeper, longer-lasting relationships with their customers. Sailthru personalizes individual customer experiences across digital communication channels—in email, on a brand’s website and in their mobile applications.
+
+New
+
+Salesforce
+
+Salesforce is a customer success platform. Their social and mobile cloud technologies—including their flagship sales and CRM applications—help companies connect with customers, partners, and employees in entirely new ways. Combine all of your Salesforce data with data from other services in order to measure and enhance your company's performance.
+
+Popular
+
+Salesforce Commerce Cloud
+
+Salesforce Commerce Cloud is an ecommerce platform that provides unified, intelligent digital commerce experiences, both online and in the store.
+
+
+Salesforce Marketing Cloud
+
+Salesforce Marketing Cloud provides digital marketing automation, analytics, and lead management for B2B and B2C companies.
+
+
+Salesforce Pardot
+
+Pardot B2B marketing automation by Salesforce helps marketers create more leads, generate more pipeline, and empower sales to close more deals. Centralize Pardot data with other sources for advanced analytics.
+
+
+Salesloft
+
+Salesloft is a sales engagement platform powering sales teams to connect with prospects at scale. Fivetran’s Salesloft connector extracts raw data from Salesloft and loads it into your destination, where it can be enriched with data from your other sources.
+
+New
+
+SAP Business ByDesign
+
+SAP Business ByDesign is a cloud-based enterprise resource planning system for small and medium-sized organizations.
+
+
+SAP Concur
+
+SAP Concur solutions connect all your expense, travel, and vendor invoice spending in one system, providing a single way to manage spending from end-to-end, gain greater visibility into transactions, improve compliance, and simplify the process for everyone.
+
+
+SAP ERP (S/4 HANA)
+
+Run fast, intelligent and tightly integrated business processes with enterprise resource planning (ERP) systems from SAP.
+
+
+Scorm
+
+The Lite connector for Scorm extracts and loads the data your business needs into your destination of choice.
+
+Lite
+Soon
+
+Segment
+
+Segment is building a platform for collecting customer data. They provide a single API to track customer data across multiple devices and channels, and send it to third-party tools, internal systems, or a SQL database.
+
+
+Sendgrid
+
+Sendgrid is a cloud-based email service that helps growing companies solve the challenge of reliable email delivery. Users trust Sendgrid for their delivery needs for both transactional and marketing emails.
+
+
+Sendinblue
+
+Fivetran's Sendinblue Lite connector is a use case focused, fully managed connector, that extracts data from Sendinblue, replicates and loads that data in your centralized data warehouse or data lake, where analysts can easilly access and query it alongside the rest of your organization's data.
+
+Lite
+Soon
+
+ServiceNow
+
+ServiceNow is a cloud-based platform that helps deliver digital experiences that help people and employees do their best work.
+
+
+SFTP
+
+Secure File Transfer Protocol (SFTP) is a network protocol that provides file access, file transfer, and file management over a reliable data stream. Marketing Analytics,Sales Analytics,Product Analytics,Finance & Ops Analytics,Support Analytics,Engineering Analytics
+
+
+Sharetribe
+
+The Lite connector for Sharetribe extracts and loads the data your business needs into your destination of choice.
+
+Lite
+Soon
+
+ShipStation
+
+The Lite connector for ShipStation extracts and loads the data your business needs into your destination of choice.
+
+Lite
+Soon
+
+Shopify
+
+Shopify is a commerce platform that allows anyone to easily sell online, at a retail location, and everywhere in between. It's computer software platform and retail point of sale (POS) system.
+
+Popular
+
+Short.io
+
+The Lite connector for Short.io extracts and loads the data your business needs into your destination of choice.
+
+Lite
+Soon
+
+SkuVault
+
+The Lite connector for SkuVault extracts and loads the data your business needs into your destination of choice.
+
+Lite
+Soon
+
+Slack
+
+The Lite connector for Slack extracts and loads the data your business needs into your destination of choice.
+
+Lite
+
+Snapchat Ads
+
+Snapchat is a multimedia messaging app and advertising platform.
+
+
+Snowplow Analytics
+
+Snowplow Analytics provides enterprise-strength event analytics powered by the open source Snowplow platform. The Snowplow platform allows you to identify your users, and track the way they engage with your website or application. Then it becomes easy to join your web analytics and other event data sets with 3rd party data sets e.g. marketing (Adwords, PPC, display network, affiliate networks), customer data (CRM systems) and catalog data systems (master data management, CMSs).
+
+
+SonarQube
+
+The Lite connector for SonarQube extracts and loads the data your business needs into your destination of choice.
+
+Lite
+
+Split.io
+
+The Lite connector for Split.io extracts and loads the data your business needs into your destination of choice.
+
+Lite
+
+Splunk
+
+Splunk Inc. turns machine data into answers with the leading platform to tackle the toughest IT, IoT and security challenges. Use Splunk to search, monitor, analyze and visualize machine data.
+
+New
+
+Spree Commerce via MySQL
+
+Spree Commerce is a complete, scalable, API-driven open source Ecommerce framework.
+
+
+SQL Server
+
+Microsoft's SQL Server is a powerful enterprise relational database.
+
+Popular
+
+SQL Server on RDS
+
+SQL Server is a relational database management system developed by Microsoft. Amazon RDS for SQL Server makes it easy to set up, operate, and scale SQL Server deployments in the cloud.
+
+
+Square
+
+Start, manage, and help grow your entire business with one intuitive app. Square Point of Sale is the free app that helps you do it all—no matter what stage of business you're in. Sell smarter with real-time sales data and intuitive inventory tools, and easily customize the app as your business grows.
+
+
+Squarespace
+
+Fivetran's Squarespace Lite connector is a use case focused, fully managed connector, that extracts data from Squarespace, replicates and loads that data in your centralized data warehouse or data lake, where analysts can easilly access and query it alongside the rest of your organization's data.
+
+Lite
+Soon
+
+Statsig
+
+The Lite connector for Statsig extracts and loads the data your business needs into your destination of choice.
+
+Lite
+
+Stripe
+
+Stripe is a software platform for running an internet business, helping to power commerce for businesses of all sizes. Stripe provides a service for accepting and managing all of your online payments.
+
+Popular
+
+Subscript
+
+The Lite connector for Subscript extracts and loads the data your business needs into your destination of choice.
+
+Lite
+
+SugarCRM
+
+SugarCRM software provides marketing, sales, and customer success automation.
+
+
+SurveyMonkey
+
+SurveyMonkey is a cloud-based survey tool that helps users create, send and analyze surveys.
+
+
+Survicate
+
+The Lite connector for Survicate extracts and loads the data your business needs into your destination of choice.
+
+Lite
+Soon
+
+Taboola
+
+Taboola develops and markets a service for online content publishers and advertisers that recommends digital content to website users.
+
+
+Teamwork
+
+The Lite connector for Teamwork extracts and loads the data your business needs into your destination of choice.
+
+Lite
+Soon
+
+Tempo.io
+
+The Lite connector for Tempo.io extracts and loads the data your business needs into your destination of choice.
+
+Lite
+Soon
+
+The Trade Desk
+
+The Trade Desk is a demand side platform for marketers, advertising agencies and their service providers. Ad buyers can leverage the platform to create, manage and optimize data-driven digital advertising campaigns across ad formats and channels on many devices.
+
+Soon
+
+TikTok Ads
+
+Our TikTok Ads ETL integration enables you to track high-priority advertising metrics so your Marketing team can understand how TikTok users are interacting with your company's promotional videos. Track how much your brand is spending, what actions users take as a result of seeing your ads, and compare your impressions to engagement ratio, and more with Fivetran's connector.
+
+Popular
+
+Trello
+
+The Lite connector for Trello extracts and loads the data your business needs into your destination of choice.
+
+Lite
+Soon
+
+Twilio
+
+Twilio powers the future of business communications. Enabling phones, VoIP, and messaging to be embedded into web, desktop, and mobile software.
+
+New
+
+Twitter Ads
+
+Twitter is a microblogging and social networking service. Fivetran's Twitter Organic connector provides a history of the settings and a detailed report of your organic tweet data. You can find more information in Twitter's documentation.
+
+
+Twitter Organic +
+
+Twitter is a microblogging and social networking service. Fivetran's Twitter Organic connector provides a history of the settings and a detailed report of your organic tweet data. You can find more information in Twitter's documentation.
+
+
+Typeform
+
+Typeform is an online survey management solution.
+
+
+UserVoice
+
+UserVoice is product feedback management software that enables businesses gather and analyze customer feedback and prioritize feature requests to drive strategic product decisions.
+
+
+Veeva
+
+Veeva is a clinical data and operations management solution, built on the Salesforce platform. Fivetran syncs Veeva data via our Salesforce integration.
+
+
+Vonage
+
+The Lite connector for Vonage extracts and loads the data your business needs into your destination of choice.
+
+Lite
+Soon
+
+Web Scraper
+
+The Lite connector for Web Scraper extracts and loads the data your business needs into your destination of choice.
+
+Lite
+Soon
+
+Webhooks
+
+A webhook is a method of augmenting or altering the behavior of a web page, or web application, with custom, user-defined HTTP callbacks. These callbacks may be maintained, modified, and managed by third-party users and developers and are usually triggered by some event, such as pushing code to a repository or a comment being posted to a blog. Sales Analytics,Marketing Analytics,Product Analytics,Finance & Ops Analytics,Support Analytics,Engineering Analytics
+
+Popular
+
+WooCommerce
+
+WooCommerce is an open-source e-commerce plugin for WordPress. It is designed for small to large-sized online merchants using WordPress.
+
+
+WooCommerce Lite
+
+The Lite connector for WooCommerce extracts and loads the data your business needs into your destination of choice.
+
+Lite
+
+WooCommerce via MySQL
+
+WooCommerce is a popular shopping cart plugin to WordPress.
+
+
+WordPress
+
+The Lite connector for WordPress extracts and loads the data your business needs into your destination of choice.
+
+Lite
+Soon
+
+Workable
+
+Fivetran's Workable Lite connector is a use case focused, fully managed connector, that extracts data from Workable, replicates and loads that data in your centralized data warehouse or data lake, where analysts can easilly access and query it alongside the rest of your organization's data.
+
+Lite
+Soon
+
+Workday
+
+Workday offers enterprise-level software solutions for financial management, human resources, and planning.
+
+
+Workday Financial Management
+
+Workday Financial Management brings together the rich operational intelligence, revenue management, regulatory, and grants management data. Connect Workday Financial management with Fivetran to empower your teams.
+
+Soon
+
+Workday HCM
+
+Workday HCM is made for managing and understanding the lifetime of your employees at your company. Connect Workday HCM with Fivetran to begin unlocking employee insights.
+
+
+Workflowmax
+
+Fivetran's Workflowmax Lite connector is a use case focused, fully managed connector, that extracts data from Workflowmax, replicates and loads that data in your centralized data warehouse or data lake, where analysts can easilly access and query it alongside the rest of your organization's data.
+
+Lite
+Soon
+
+Wrike
+
+The Lite connector for Wrike extracts and loads the data your business needs into your destination of choice.
+
+Lite
+Soon
+
+Xero
+
+Xero accounting software helps manage invoicing, bank reconciliation, bookkeeping, and more.
+
+
+Yahoo DSP
+
+Yahoo DSP is a management platform that gathers marketing data and puts the power of programmatic advertising in your hands, providing access to inventory across all major ad exchanges, SSPs and publishers.
+
+Soon
+
+Yahoo Gemini (Verizon Media)
+
+Yahoo Gemini is Yahoo's marketplace for search and native advertising. The platform helps marketers drive traffic to their websites, raise brand awareness and increase online sales.
+
+
+Yotpo
+
+The Lite connector for Yotpo extracts and loads the data your business needs into your destination of choice.
+
+Lite
+Soon
+
+YouTube Analytics
+
+YouTube Analytics in advanced mode lets you see more specific data about your channels, assets, and audience. You can also compare content performance metrics and export your data.
+
+
+Zendesk
+
+Zendesk Support is a cloud-based customer support platform.
+
+Popular
+
+Zendesk Chat
+
+Zendesk Chat, formerly Zopim, lets you chat with customers live and give them real-time support. Pull all of your chat data from Zendesk Chat and explore it in the context of other business insights to figure out what's driving lead, prospect, and customer engagement.
+
+
+Zendesk Gather
+
+Zendesk Gather is a customer community forum solution hosted via the Zendesk Support platform. Our Zendesk Support connector extracts your posts and comments data from Zendesk Gather and loads it into your destination.
+
+
+Zendesk Guide
+
+Zendesk Guide is a self-service support platform hosted via the Zendesk Support platform. Our Zendesk Support connector extracts your articles data from Zendesk Guide and loads it into your destination.
+
+
+Zendesk Sell
+
+Zendesk Sell is a CRM (customer relationship management) tool used to automate pipeline visibility for sales teams and streamline productivity.
+
+
+Zendesk Sunshine
+
+Zendesk Sunshine is an open and flexible CRM platform. It lets you seamlessly connect and understand all your customer data. It is fast, powerful and gives you the freedom to build whatever you want.
+
+
+Zendesk Talk
+
+Zendesk Talk is a cloud-based contact center built into the Zendesk Support platform. We use our Zendesk Support connector to extract your raw call data from Zendesk Talk and load it into your destination.
+
+
+Zingtree
+
+The Lite connector for Zingtree extracts and loads the data your business needs into your destination of choice.
+
+Lite
+Soon
+
+Zoho CRM
+
+Zoho CRM is an online Sales CRM software that manages your sales, marketing and support in one CRM platform
+
+
+Zuora
+
+Zuora empowers businesses to modernize legacy order-to-cash systems with a new architecture designed to automate the entire lifecycle of their subscribers. Zuora’s applications are designed to automate billing, commerce, and finance operations
+
+Back to top

@@ -1,0 +1,1199 @@
+Facebook Marketing
+Marketing Analytics
+source icon
+
+Google Ads
+Marketing Analytics
+source icon
+
+Google Analytics
+Marketing Analytics
+source icon
+
+Google Sheets
+Files
+source icon
+
+HubSpot
+Marketing Analytics
+source icon
+
+MSSQL - SQL Server
+Databases
+source icon
+
+MySQL
+Databases
+source icon
+
+PostgreSQL
+Databases
+source icon
+
+Redshift
+Warehouses and Lakes
+source icon
+
+S3
+Warehouses and Lakes
+Destination icon
+
+Salesforce
+Sales & Support Analytics
+source icon
+
+Snowflake Data Cloud
+Warehouses and Lakes
+source icon
+
+Webflow
+Marketing Analytics
+source icon
+
+AWS CloudTrail
+Engineering Analytics
+source icon
+
+AWS Datalake
+Warehouses and Lakes
+Destination icon
+
+ActiveCampaign
+Marketing Analytics
+source icon
+
+Adjust
+Product Analytics
+source icon
+
+Aha
+Product Analytics
+source icon
+
+Airtable
+Finance & Ops Analytics
+source icon
+
+AlloyDB for PostgreSQL
+Databases
+source icon
+
+Alpha Vantage
+Finance & Ops Analytics
+source icon
+
+Amazon Ads
+Marketing Analytics
+source icon
+
+Amazon SQS
+Engineering Analytics
+source icon
+
+Amazon Seller Partner
+Finance & Ops Analytics
+source icon
+
+Amplitude
+Product Analytics
+source icon
+
+Apache Doris
+Databases
+Destination icon
+
+Apache Iceberg
+Databases
+Destination icon
+
+Apache Kafka
+Databases
+source icon
+
+Apify
+Others
+source icon
+
+App Store
+Finance & Ops Analytics
+source icon
+
+Appfollow
+Product Analytics
+source icon
+
+Asana
+Finance & Ops Analytics
+source icon
+
+Ashby
+Engineering Analytics
+source icon
+
+Auth0
+Engineering Analytics
+source icon
+
+Azure Blob Storage
+Warehouses and Lakes
+Destination icon
+
+Azure Table Storage
+Warehouses and Lakes
+source icon
+
+Bamboo HR
+Finance & Ops Analytics
+source icon
+
+BambooHR
+Finance & Ops Analytics
+source icon
+
+BigCommerce
+Finance & Ops Analytics
+source icon
+
+BigQuery
+Warehouses and Lakes
+source icon
+
+BigQuery
+Warehouses and Lakes
+Destination icon
+
+Bing Ads
+Marketing Analytics
+source icon
+
+Braintree
+Finance & Ops Analytics
+source icon
+
+Braze
+Marketing Analytics
+source icon
+
+Breezometer
+Others
+source icon
+
+CSV File
+Files
+Destination icon
+
+CSV File
+Files
+source icon
+
+Cart
+Marketing Analytics
+source icon
+
+Chargebee
+Finance & Ops Analytics
+source icon
+
+Chargify
+Finance & Ops Analytics
+Destination icon
+
+Chartmogul
+Product Analytics
+source icon
+
+ClickHouse
+Databases
+Destination icon
+
+ClickUp
+Finance & Ops Analytics
+source icon
+
+Clickhouse
+Databases
+source icon
+
+Clockify
+Finance & Ops Analytics
+source icon
+
+Close.com
+Sales & Support Analytics
+source icon
+
+CockroachDB
+Databases
+source icon
+
+Coda
+Sales & Support Analytics
+source icon
+
+Coin API
+Finance & Ops Analytics
+source icon
+
+CoinGecko Coins
+Finance & Ops Analytics
+source icon
+
+CoinMarketCap
+Finance & Ops Analytics
+source icon
+
+Commercetools
+Finance & Ops Analytics
+source icon
+
+ConfigCat
+Product Analytics
+source icon
+
+Confluence
+Finance & Ops Analytics
+source icon
+
+ConvertKit
+Marketing Analytics
+source icon
+
+Convex
+Engineering Analytics
+source icon
+
+Convex.dev
+Databases
+source icon
+
+Courier
+Engineering Analytics
+source icon
+
+Customer.io
+Marketing Analytics
+source icon
+
+DV 360
+Marketing Analytics
+source icon
+
+Databricks Lakehouse
+Warehouses and Lakes
+Destination icon
+
+Datadog
+Engineering Analytics
+source icon
+
+Delighted
+Sales & Support Analytics
+source icon
+
+Dixa
+Sales & Support Analytics
+source icon
+
+Dockerhub
+Engineering Analytics
+source icon
+
+Drift
+Sales & Support Analytics
+source icon
+
+Drupal
+Marketing Analytics
+source icon
+
+DuckDB
+Databases
+Destination icon
+
+DynamoDB
+Databases
+Destination icon
+
+DynamoDB
+Databases
+source icon
+
+E2E Testing
+Engineering Analytics
+source icon
+
+Elasticsearch
+Databases
+source icon
+
+Elasticsearch
+Databases
+Destination icon
+
+EmailOctopus
+Marketing Analytics
+source icon
+
+Excel File
+Files
+source icon
+
+Exchange Rates API
+Finance & Ops Analytics
+source icon
+
+Facebook Pages
+Marketing Analytics
+source icon
+
+Faker
+Others
+source icon
+
+Fastbill
+Finance & Ops Analytics
+source icon
+
+Fauna
+Databases
+source icon
+
+Feather File
+Files
+source icon
+
+Firebase
+Databases
+source icon
+
+Firebolt
+Warehouses and Lakes
+source icon
+
+Flexport
+Finance & Ops Analytics
+source icon
+
+Freshcaller
+Sales & Support Analytics
+source icon
+
+Freshdesk
+Sales & Support Analytics
+source icon
+
+Freshsales
+Sales & Support Analytics
+source icon
+
+Freshservice
+Marketing Analytics
+source icon
+
+GNews
+Marketing Analytics
+source icon
+
+GetLago
+Finance & Ops Analytics
+source icon
+
+GitHub
+Engineering Analytics
+source icon
+
+GitLab
+Engineering Analytics
+source icon
+
+Glassfrog
+Finance & Ops Analytics
+source icon
+
+GoCardless
+Finance & Ops Analytics
+source icon
+
+Google Cloud Storage
+Warehouses and Lakes
+Destination icon
+
+Google Directory
+Finance & Ops Analytics
+source icon
+
+Google Pubsub
+Databases
+Destination icon
+
+Google Search Console
+Marketing Analytics
+source icon
+
+Google Sheets
+Files
+Destination icon
+
+Google Webfonts
+Others
+source icon
+
+Google Workspace Admin Reports
+Finance & Ops Analytics
+source icon
+
+Greenhouse
+Finance & Ops Analytics
+source icon
+
+Gridly
+Marketing Analytics
+source icon
+
+Gutendex
+Finance & Ops Analytics
+source icon
+
+Harness
+Engineering Analytics
+source icon
+
+Harvest
+Finance & Ops Analytics
+source icon
+
+Hubplanner
+Finance & Ops Analytics
+source icon
+
+IBM Db2
+Databases
+source icon
+
+IP2Whois
+Others
+source icon
+
+Instagram
+Marketing Analytics
+source icon
+
+Intercom
+Sales & Support Analytics
+source icon
+
+Intruder
+Engineering Analytics
+source icon
+
+Iterable
+Marketing Analytics
+source icon
+
+JSON File
+Files
+Destination icon
+
+JSON File
+Files
+source icon
+
+Jenkins
+Engineering Analytics
+source icon
+
+Jira
+Engineering Analytics
+source icon
+
+K6 Cloud
+Engineering Analytics
+source icon
+
+Kafka
+Databases
+Destination icon
+
+Keen
+Product Analytics
+Destination icon
+
+Klarna
+Finance & Ops Analytics
+source icon
+
+Klaviyo
+Marketing Analytics
+source icon
+
+Kustomer
+Sales & Support Analytics
+source icon
+
+Kyriba
+Finance & Ops Analytics
+source icon
+
+LaunchDarkly
+Product Analytics
+source icon
+
+Lemlist
+Marketing Analytics
+source icon
+
+Lever Hiring
+Finance & Ops Analytics
+source icon
+
+LinkedIn Ads
+Marketing Analytics
+source icon
+
+LinkedIn Pages
+Marketing Analytics
+source icon
+
+Linnworks
+Finance & Ops Analytics
+source icon
+
+Lokalise
+Marketing Analytics
+source icon
+
+Looker
+Product Analytics
+source icon
+
+MSSQL - SQL Server
+Databases
+Destination icon
+
+Magento
+Marketing Analytics
+source icon
+
+Mailchimp
+Marketing Analytics
+source icon
+
+MailerLite
+Marketing Analytics
+source icon
+
+Mailgun
+Marketing Analytics
+source icon
+
+Mailjet Email
+Marketing Analytics
+source icon
+
+Mailjet SMS
+Marketing Analytics
+source icon
+
+MariaDB Columnstore
+Warehouses and Lakes
+Destination icon
+
+Marketo
+Marketing Analytics
+source icon
+
+MeiliSearch
+Engineering Analytics
+Destination icon
+
+Metabase
+Product Analytics
+source icon
+
+Microsoft Dataverse
+Databases
+source icon
+
+Microsoft Dynamics AX
+Finance & Ops Analytics
+source icon
+
+Microsoft Dynamics Customer Engagement
+Sales & Support Analytics
+source icon
+
+Microsoft Dynamics GP
+Finance & Ops Analytics
+source icon
+
+Microsoft Dynamics NAV
+Product Analytics
+source icon
+
+Microsoft Teams
+Finance & Ops Analytics
+source icon
+
+Mixpanel
+Product Analytics
+source icon
+
+MongoDB
+Databases
+Destination icon
+
+MongoDB
+Databases
+source icon
+
+My Hours
+Finance & Ops Analytics
+source icon
+
+MySQL
+Databases
+Destination icon
+
+N8n
+Marketing Analytics
+source icon
+
+NASA
+Others
+source icon
+
+Netsuite
+Finance & Ops Analytics
+source icon
+
+New York Times
+Others
+source icon
+
+News API
+Others
+source icon
+
+Newsdata
+Others
+source icon
+
+Notion
+Finance & Ops Analytics
+source icon
+
+Okta
+Finance & Ops Analytics
+source icon
+
+Omnisend
+Marketing Analytics
+source icon
+
+OneSignal
+Marketing Analytics
+source icon
+
+OpenWeather
+Others
+source icon
+
+Oracle DB
+Databases
+Destination icon
+
+Oracle DB
+Databases
+source icon
+
+Oracle PeopleSoft
+Finance & Ops Analytics
+source icon
+
+Oracle Siebel CRM
+Sales & Support Analytics
+source icon
+
+Orb
+Finance & Ops Analytics
+source icon
+
+Orbit.love
+Marketing Analytics
+source icon
+
+Oura
+Others
+source icon
+
+Outreach
+Sales & Support Analytics
+source icon
+
+Pagar.me
+Finance & Ops Analytics
+source icon
+
+PagerDuty
+Engineering Analytics
+source icon
+
+Parquet File
+Files
+source icon
+
+PartnerStack
+Marketing Analytics
+source icon
+
+PayPal Transaction
+Finance & Ops Analytics
+source icon
+
+PersistIq
+Sales & Support Analytics
+source icon
+
+Pexels API
+Others
+source icon
+
+Pinterest Ads
+Marketing Analytics
+source icon
+
+Pipedrive
+Sales & Support Analytics
+source icon
+
+Plaid
+Finance & Ops Analytics
+source icon
+
+Plausible
+Product Analytics
+source icon
+
+Pocket
+Others
+source icon
+
+PokéAPI
+Others
+source icon
+
+Polygon
+Others
+source icon
+
+PostgreSQL
+Databases
+Destination icon
+
+Posthog
+Product Analytics
+source icon
+
+Postmark App
+Marketing Analytics
+source icon
+
+PrestaShop
+Finance & Ops Analytics
+source icon
+
+Primetric
+Finance & Ops Analytics
+source icon
+
+Public API
+Others
+source icon
+
+Punk API
+Others
+source icon
+
+PyPI
+Engineering Analytics
+source icon
+
+Qualaroo
+Marketing Analytics
+source icon
+
+QuickBooks
+Finance & Ops Analytics
+source icon
+
+RD Station Marketing
+Marketing Analytics
+source icon
+
+REST Countries
+Others
+source icon
+
+RKI Covid
+Others
+source icon
+
+RSS
+Others
+source icon
+
+Railz
+Finance & Ops Analytics
+source icon
+
+Recharge
+Finance & Ops Analytics
+source icon
+
+Recreation.gov
+Others
+source icon
+
+Recruitee
+Finance & Ops Analytics
+source icon
+
+Recurly
+Finance & Ops Analytics
+source icon
+
+Redshift
+Warehouses and Lakes
+Destination icon
+
+Reply.io
+Sales & Support Analytics
+source icon
+
+Rest Api
+Engineering Analytics
+source icon
+
+Retently
+Sales & Support Analytics
+source icon
+
+Rocket.chat
+Finance & Ops Analytics
+source icon
+
+S3
+Warehouses and Lakes
+source icon
+
+S3 Glue
+Warehouses and Lakes
+Destination icon
+
+SAP Business One
+Finance & Ops Analytics
+source icon
+
+SAP Fieldglass
+Finance & Ops Analytics
+source icon
+
+SFTP
+Files
+source icon
+
+SFTP Bulk
+Others
+source icon
+
+SalesLoft
+Sales & Support Analytics
+source icon
+
+SearchMetrics
+Others
+source icon
+
+Secoda
+Others
+source icon
+
+SendGrid
+Marketing Analytics
+source icon
+
+Sendinblue
+Marketing Analytics
+source icon
+
+Senseforce
+Others
+source icon
+
+Sentry
+Engineering Analytics
+source icon
+
+Shopify
+Finance & Ops Analytics
+source icon
+
+Short.io
+Marketing Analytics
+source icon
+
+Slack
+Finance & Ops Analytics
+source icon
+
+Smaily
+Marketing Analytics
+source icon
+
+SmartEngage
+Marketing Analytics
+source icon
+
+Smartsheets
+Files
+source icon
+
+Snapchat Marketing
+Marketing Analytics
+source icon
+
+Snowflake Data Cloud
+Warehouses and Lakes
+Destination icon
+
+SonarCloud
+Engineering Analytics
+source icon
+
+SpaceX API
+Others
+source icon
+
+Spree Commerce
+Finance & Ops Analytics
+source icon
+
+Square
+Finance & Ops Analytics
+source icon
+
+Statuspage
+Engineering Analytics
+source icon
+
+Statuspage.io
+Engineering Analytics
+source icon
+
+Strava
+Others
+source icon
+
+Streamr
+Engineering Analytics
+Destination icon
+
+Stripe
+Finance & Ops Analytics
+source icon
+
+Sugar CRM
+Sales & Support Analytics
+source icon
+
+SurveyMonkey
+Marketing Analytics
+source icon
+
+SurveySparrow
+Marketing Analytics
+source icon
+
+TMDb
+Others
+source icon
+
+TVMaze Schedule
+Others
+source icon
+
+TalkDesk Explore
+Sales & Support Analytics
+source icon
+
+Tempo
+Finance & Ops Analytics
+source icon
+
+Teradata
+Warehouses and Lakes
+Destination icon
+
+The Guardian API
+Others
+source icon
+
+TiDB
+Databases
+source icon
+
+TikTok for Business Marketing
+Marketing Analytics
+source icon
+
+Timely
+Finance & Ops Analytics
+source icon
+
+Toggl
+Finance & Ops Analytics
+source icon
+
+Trello
+Finance & Ops Analytics
+source icon
+
+Twilio
+Marketing Analytics
+source icon
+
+Twitter
+Marketing Analytics
+source icon
+
+Tyntec SMS
+Marketing Analytics
+source icon
+
+Typeform
+Marketing Analytics
+source icon
+
+Typesense
+Engineering Analytics
+Destination icon
+
+US Census
+Others
+source icon
+
+Vantage
+Engineering Analytics
+source icon
+
+VictorOps
+Engineering Analytics
+source icon
+
+Visma E-conomic
+Finance & Ops Analytics
+source icon
+
+Vitally
+Sales & Support Analytics
+source icon
+
+Waiteraid
+Others
+source icon
+
+Weatherstack
+Others
+source icon
+
+Whisky Hunter
+Marketing Analytics
+source icon
+
+Wikipedia Pageviews
+Others
+source icon
+
+WooCommerce
+Finance & Ops Analytics
+source icon
+
+Wordpress
+Marketing Analytics
+source icon
+
+Workramp
+Finance & Ops Analytics
+source icon
+
+Wrike
+Finance & Ops Analytics
+source icon
+
+Yandex Metrica
+Marketing Analytics
+source icon
+
+YouTube Analytics
+Marketing Analytics
+source icon
+
+Younium
+Finance & Ops Analytics
+source icon
+
+Yugabytedb
+Databases
+Destination icon
+
+Zapier Supported Storage
+Marketing Analytics
+source icon
+
+Zencart
+Finance & Ops Analytics
+source icon
+
+Zendesk Chat
+Sales & Support Analytics
+source icon
+
+Zendesk Sell
+Sales & Support Analytics
+source icon
+
+Zendesk Sunshine
+Sales & Support Analytics
+source icon
+
+Zendesk Support
+Sales & Support Analytics
+source icon
+
+Zendesk Talk
+Sales & Support Analytics
+source icon
+
+Zenefits
+Finance & Ops Analytics
+source icon
+
+Zenloop
+Sales & Support Analytics
+source icon
+
+Zoho CRM
+Sales & Support Analytics
+source icon
+
+Zoom
+Finance & Ops Analytics
+source icon
+
+Zuora
+Finance & Ops Analytics
+source icon
+
+xkcd
+Others
+source icon
